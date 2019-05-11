@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Real Estate Vendor</string>
+
+    <string name="LoginBottom">By Proceeding, you agree to </string>
+    <string name="Loginpage"> <font fgcolor='#420b99'> Terms  &amp; Conditions </font> and <font fgcolor='#420b99'> Privacy Policy </font> </string>
+    <string name="Register"> Would you like to Register? <font fgcolor='#420b99'> Click Here.! </font> </string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Welocmenoted">Dear Partners, your profile is submitted for verification. Our back-end
+    team will look into your profile. As and when we will verify you will get
+    confirmation call from our concern team. This process may take 2-3
+        business days. Thank you for joining us.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!--      Permission Message    -->
+    <string name="permission_read_external_storage">Permission to read files is required</string>
+    <string name="permission_write_external_storage">Permission to write files is required</string>
+    <string name="permission_camera_access">Permission to access camera is required</string>
+    <string name="permission_send_sms">Permission to send SMS is required</string>
+    <string name="permission_receive_sms">Permission to receive SMS is required</string>
+    <string name="permission_read_sms">Permission to read SMS is required</string>
+    <string name="permission_read_phone_state">Permission to read phone is required</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

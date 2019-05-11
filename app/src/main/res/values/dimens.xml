@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="splashImageSize">200dp</dimen>
+
+    <dimen name="activity_horizontal_margin">0dp</dimen>
+    <dimen name="activity_vertical_margin">0dp</dimen>
+
+    <dimen name="margin_xlarge">24dp</dimen>
+    <dimen name="margin_xxlarge">30dp</dimen>
+    <dimen name="margin_xxxlarge">32dp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+    <dimen name="margin_medium">12dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_extra_small">4dp</dimen>
+    <dimen name="margin_nominal">2dp</dimen>
+
+    <!--fab buttons-->
+    <dimen name="fab_size_normal">56dp</dimen>
+    <dimen name="fab_size_mini">40dp</dimen>
+    <dimen name="labels_text_size">14sp</dimen>
+
+    <!--Buttons-->
+    <dimen name="buttonPaddingsHorizontal">30dp</dimen>
+    <dimen name="buttonPaddingsVerticals">10dp</dimen>
+    <dimen name="buttonRadius">300dp</dimen>
+    <dimen name="buttonTextSize">15dp</dimen>
+    <dimen name="addressCardHeight">100dp</dimen>
+    <dimen name="cardLeftMargin">8dp</dimen>
+    <dimen name="cardInternalMargin">4dp</dimen>
+    <dimen name="normalToolbarTitleTextSize">80dp</dimen>
+    <dimen name="recyclerInternalPad">@dimen/margin_medium</dimen>
+    <dimen name="activityLayoutPad">@dimen/margin_small</dimen>
+    <dimen name="cardTopMargin">10dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="cardCornerRadius">6dp</dimen>
+    <dimen name="margin_xxxxlarge">40dp</dimen>
+    <dimen name="dashboard_collapsing_toolbar_height">250dp</dimen>
+
+    <dimen name="design_navigation_separator_vertical_padding">10dp</dimen>
+    <dimen name="design_navigation_icon_padding" tools:override="true">8dp</dimen>
+    <dimen name="cardDefaultElevation">4dp</dimen>
+    <dimen name="largeTextSize">16sp</dimen>
+    <dimen name="mediumTextSize">12sp</dimen>
+    <dimen name="cardLayoutPad">4dp</dimen>
+    <dimen name="cardFoodImageSize">70dp</dimen>
+    <dimen name="cardSpacingMargin">4dp</dimen>
+    <dimen name="cardMargins">4dp</dimen>
+    <dimen name="recyclerSideMargins">8dp</dimen>
+    <dimen name="buttonHeights">50dp</dimen>
+    <dimen name="likeViewHeight">35dp</dimen>
+    <dimen name="dietStatsBarHeight">200dp</dimen>
+    <dimen name="btCornersRadius">4dp</dimen>
+    <dimen name="noDataFoundImageHeight">120dp</dimen>
+    <dimen name="dashDetailsTextSize">20sp</dimen>
+    <dimen name="dashDetailsTextSmallSize">10sp</dimen>
+    <dimen name="cartTitleTextSize">16sp</dimen>
+    <dimen name="cartDescriptionTextSize">14sp</dimen>
+    <dimen name="cardTopElevation">8dp</dimen>
+    <dimen name="cardTitleTextSize">16sp</dimen>
+    <dimen name="cardDescriptionTextSize">14sp</dimen>
+    <dimen name="dialogTitlePad">12dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+
+    <dimen name="cardPriceTextSize">14sp</dimen>
+    <dimen name="detailsDataTextSize">12sp</dimen>
+    <dimen name="detailsLabelTextSize">10sp</dimen>
+    <dimen name="cardCountTextSize">14sp</dimen>
+    <dimen name="cardBottomMargin">2dp</dimen>
+    <dimen name="imageButtonPads">5dp</dimen>
+    <dimen name="timeLineDotSize">24dp</dimen>
+    <dimen name="timeLineLineSize">50dp</dimen>
+    <dimen name="trackOrderCardMargin">2dp</dimen>
+    <dimen name="browseFoodFunctionLayoutHeight">125dp</dimen>
+    <dimen name="timeLineLineHeight">20dp</dimen>
+    <dimen name="navDrawerWidth">250dp</dimen>
+    <dimen name="trackOrderCardBetweenSpacing">2dp</dimen>
+    <dimen name="actionBarSize">50dp</dimen>
+    <dimen name="tabsHeight">48dp</dimen>
+
+</resources>
