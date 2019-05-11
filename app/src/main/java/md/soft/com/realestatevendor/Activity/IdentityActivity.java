@@ -36,7 +36,7 @@ public class IdentityActivity extends AppCompatActivity {
         PanCard.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                i= new Intent(IdentityActivity.this,AadarActivity.class);
+                i= new Intent(IdentityActivity.this,PenCardActivity.class);
                 startActivity(i);
             }
         });
@@ -56,6 +56,9 @@ public class IdentityActivity extends AppCompatActivity {
                 startActivity(i);
             }
         });
+
+
+
 
 
 

@@ -17,6 +17,7 @@ import md.soft.com.realestatevendor.Activity.ContectUsActivity;
 import md.soft.com.realestatevendor.Activity.EditProfileActivity;
 import md.soft.com.realestatevendor.Activity.IdentityActivity;
 import md.soft.com.realestatevendor.Activity.SettingActivity;
+import md.soft.com.realestatevendor.Activity.UploadWorkActivity;
 import md.soft.com.realestatevendor.R;
 
 /**
@@ -60,7 +61,13 @@ public class ProfileFragment extends Fragment {
         });
 
 
-
+        Upladwork.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                i= new Intent(getActivity(), UploadWorkActivity.class);
+                startActivity(i);
+            }
+        });
 
     }
 
